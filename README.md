@@ -1,2 +1,1 @@
-# nolanfeeny.github.io
-Nolan's Test Blog
+Source code for CyberAmbassadors website
